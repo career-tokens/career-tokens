@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack alongwith DSA.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/career-tokens](https://github.com/career-tokens)
+- 👨‍💻 Imp projects are available at [https://github.com/career-tokens](https://github.com/career-tokens)
 
 - 💬 Ask me about **MERN.**
 
