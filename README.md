@@ -14,6 +14,7 @@
 - 📫 How to reach me **mainakcollege8967@gmail.com**
 
 -  Portfolio Link [https://mainak-portfolio.vercel.app](https://mainak-portfolio.vercel.app)
+-  Blog Link [https://mainakkaniam.hashnode.dev](https://mainakkaniam.hashnode.dev)
 
 
 - ⚡ Fun fact **I love to play football as much as I love to code.**
