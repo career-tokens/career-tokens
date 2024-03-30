@@ -1,15 +1,15 @@
 ![MasterHead](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1
 )
 <h1 align="center">Hi 👋, I'm Mainak Mukherjee</h1>
-<h3 align="center">A React developer from West bengal,India currently in learning mode.</h3>
+<h3 align="center">A NextJS developer from West bengal,India.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 
-- 🌱 I’m currently learning **MERN stack alongwith DSA.**
+- 🌱 I’m mainly specialising in **MERN stack , NextJS alongwith DSA.**
 
 - 👨‍💻 Imp projects are available at [https://github.com/career-tokens](https://github.com/career-tokens)
 
-- 💬 Ask me about **MERN.**
+- 💬 Ask me about **MERN and NextJS.**
 
 - 📫 How to reach me **mainakcollege8967@gmail.com**
 
